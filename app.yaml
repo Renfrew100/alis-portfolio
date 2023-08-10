@@ -2,9 +2,4 @@
 network:
   name: default
   session_affinity: true
-  forwarded_ports:
-    - PORT
-    - HOST_PORT:CONTAINER_PORT
-    - PORT/tcp
-    - HOST_PORT:CONTAINER_PORT/udp
 

@@ -7,6 +7,6 @@ network:
    session_affinity: true
    forwarded_ports:
     - 2222
-    - HOST_PORT: 3024
+    - 3024:10346
     - 2222 / tcp
-    - HOST_PORT:3024/udp
+    - 3024:10346 / udp

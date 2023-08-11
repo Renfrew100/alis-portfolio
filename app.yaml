@@ -1,5 +1,12 @@
 # This is a comment.
 network:
-  name: default
-  session_affinity: true
-
+   name: NETWORK_NAME
+   instance_ip_mode: 172.23.124.2
+   instance_tag: aef-instance
+   subnetwork_name: default
+   session_affinity: true
+   forwarded_ports:
+    - 1024
+    - HOST_PORT: 3024
+    - 1024/tcp
+    - HOST_PORT:5024/udp

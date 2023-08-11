@@ -1804,7 +1804,6 @@ function getForwards(collectedScripts) {
 exports.components = {
   "component---cache-dev-404-page-js": () => __webpack_require__.e(/*! import() | component---cache-dev-404-page-js */ "component---cache-dev-404-page-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../dev-404-page.js?export=default */ "./.cache/dev-404-page.js?export=default")),
   "component---src-pages-404-js": () => __webpack_require__.e(/*! import() | component---src-pages-404-js */ "component---src-pages-404-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/404.js?export=default */ "./src/pages/404.js?export=default")),
-  "component---src-pages-about-js": () => __webpack_require__.e(/*! import() | component---src-pages-about-js */ "component---src-pages-about-js").then(__webpack_require__.t.bind(__webpack_require__, /*! ./../../../src/pages/About.js?export=default */ "./src/pages/About.js?export=default", 23)),
   "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-js */ "component---src-pages-index-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=default */ "./src/pages/index.js?export=default")),
   "component---src-pages-using-typescript-tsx": () => __webpack_require__.e(/*! import() | component---src-pages-using-typescript-tsx */ "component---src-pages-using-typescript-tsx").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/using-typescript.tsx?export=default */ "./src/pages/using-typescript.tsx?export=default")),
   "component---src-templates-blog-post-js": () => __webpack_require__.e(/*! import() | component---src-templates-blog-post-js */ "component---src-templates-blog-post-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/templates/blog-post.js?export=default */ "./src/templates/blog-post.js?export=default"))
@@ -10236,24 +10235,24 @@ if (false) {} else {
 /***/ }),
 
 /***/ "react-dom/server":
-/*!**********************************************************************************************************!*\
-  !*** external "C:\\Users\\aliaf\\OneDrive\\Desktop\\alis-portfolio\\node_modules\\react-dom\\server.js" ***!
-  \**********************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** external "C:\\Users\\aliaf\\OneDrive\\Desktop\\alis-portfolio\\alis-portfolio\\node_modules\\react-dom\\server.js" ***!
+  \**************************************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("C:\\Users\\aliaf\\OneDrive\\Desktop\\alis-portfolio\\node_modules\\react-dom\\server.js");
+module.exports = require("C:\\Users\\aliaf\\OneDrive\\Desktop\\alis-portfolio\\alis-portfolio\\node_modules\\react-dom\\server.js");
 
 /***/ }),
 
 /***/ "react":
-/*!*****************************************************************************************************!*\
-  !*** external "C:\\Users\\aliaf\\OneDrive\\Desktop\\alis-portfolio\\node_modules\\react\\index.js" ***!
-  \*****************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** external "C:\\Users\\aliaf\\OneDrive\\Desktop\\alis-portfolio\\alis-portfolio\\node_modules\\react\\index.js" ***!
+  \*********************************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("C:\\Users\\aliaf\\OneDrive\\Desktop\\alis-portfolio\\node_modules\\react\\index.js");
+module.exports = require("C:\\Users\\aliaf\\OneDrive\\Desktop\\alis-portfolio\\alis-portfolio\\node_modules\\react\\index.js");
 
 /***/ }),
 

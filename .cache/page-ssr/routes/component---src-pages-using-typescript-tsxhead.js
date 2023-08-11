@@ -75,25 +75,25 @@ const Header = ({
   size: "large",
   label: "Home"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
-  href: "/projects"
+  href: "/alis-portfolio/projects/"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_button_jsx__WEBPACK_IMPORTED_MODULE_1__.Button, {
   onClick: projects,
   size: "large",
   label: "About"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
-  href: "/work experience"
+  href: "/alis-portfolio/work experience/"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_button_jsx__WEBPACK_IMPORTED_MODULE_1__.Button, {
   onClick: workexperience,
   size: "large",
   label: "Work Experience"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
-  href: "/about"
+  href: "/alis-portfolio/about/"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_button_jsx__WEBPACK_IMPORTED_MODULE_1__.Button, {
   onclick: about,
   size: "large",
   label: "Projects"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
-  href: "/resume"
+  href: "/alis-portfolio/resume/"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_button_jsx__WEBPACK_IMPORTED_MODULE_1__.Button, {
   onclick: resume,
   size: "large",

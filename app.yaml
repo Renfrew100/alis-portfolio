@@ -6,7 +6,7 @@ network:
    subnetwork_name: default
    session_affinity: true
    forwarded_ports:
-    - 1024
+    - 2222
     - HOST_PORT: 3024
-    - 1024 / tcp
-    - HOST_PORT:5024/udp
+    - 2222 / tcp
+    - HOST_PORT:3024/udp

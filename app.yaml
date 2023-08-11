@@ -1,7 +1,7 @@
 # This is a comment.
 network:
    name: us-east1
-   instance_ip_mode: '172.23.124.2'
+   instance_ip_mode: internal
    instance_tag: aef-instance
    subnetwork_name: default
    session_affinity: true

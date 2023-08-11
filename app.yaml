@@ -8,5 +8,5 @@ network:
    forwarded_ports:
     - 1024
     - HOST_PORT: 3024
-    - 1024/tcp
-    - HOST_PORT:5024/udp
+    - 1024 / tcp
+    - 3024:5024/udp
